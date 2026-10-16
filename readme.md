@@ -16,5 +16,3 @@ This project creates a searchable catalogue of live music entries, stores data l
 - Python 3.14
 - SQLite3 (built-in — no extra install)
 - PowerShell / VS Code
-
-## 📁 What's Here
